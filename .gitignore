@@ -1,0 +1,5 @@
+.idea
+log.log
+*.ipynb_checkpoints
+*__pycache__/
+*FundProject.db
